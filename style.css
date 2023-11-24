@@ -1,7 +1,7 @@
-titulo {color: red}
+titulo {color: rgb(233, 9, 196)}
 .paragrafo {
-    background-color: #49d59b;
-    color: white;
+    background-color: #ffffff;
+    color: rgb(252, 0, 84);
     padding: 24px 0;
     margin: 0 160x;
     font-size: 90x;
