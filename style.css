@@ -5,9 +5,18 @@ strong {color:0ff;;}
 
 
 .titulo {color: rgb(233, 9, 196)}
+
+
 .paragrafo {
     background-color: #ffffff;
     color: rgb(252, 0, 84);
     padding: 24px 0;
     margin: 0 160x;
-    font-size: 90x;
+    font-size: 90x;}
+
+    .Peixes {
+        background-color: #000000;
+        color: yellow;
+        padding: 24px 0;
+        margin: 0 160x;
+        font-size: 90x;}
